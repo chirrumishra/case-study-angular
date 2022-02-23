@@ -5,7 +5,7 @@
 ### 1. Clone repo
 
 ```
-$ git clone git@github.com:basir/angular-amazona.git
+$ git clone https://github.com/chirrumishra/case-study-angular
 $ cd angular-amazona
 ```
 
